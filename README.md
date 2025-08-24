@@ -58,9 +58,9 @@ Backend service for an AirBnB-style marketplace platform. Built with Django and 
 
 ## 👥 Team Roles
 ### Role	Responsibilities
-**Backend Developer**	Implements API endpoints, business logic, data models, and third-party service integrations.
-**Database Administrator (DBA)**	Designs and optimizes the database schema, manages migrations, and ensures data integrity and performance.
-**DevOps Engineer**	Manages CI/CD pipelines, configures production infrastructure (servers, Docker), and ensures system reliability.
-**QA Engineer**	Develops test plans, executes manual and automated tests, and identifies and tracks bugs.
-**Product Owner**	Defines the project vision, manages the backlog, writes user stories, and prioritizes features for development.
-**Scrum Master**	Facilitates Agile ceremonies, removes team impediments, and ensures a smooth workflow process.
+**Backend Developer**	Implements API endpoints, business logic, data models, and third-party service integrations.  
+**Database Administrator (DBA)**	Designs and optimizes the database schema, manages migrations, and ensures data integrity and performance.  
+**DevOps Engineer**	Manages CI/CD pipelines, configures production infrastructure (servers, Docker), and ensures system reliability.  
+**QA Engineer**	Develops test plans, executes manual and automated tests, and identifies and tracks bugs.  
+**Product Owner**	Defines the project vision, manages the backlog, writes user stories, and prioritizes features for development.  
+**Scrum Master**	Facilitates Agile ceremonies, removes team impediments, and ensures a smooth workflow process.  
